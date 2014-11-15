@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/vigo/parayaz.svg?branch=master)](https://travis-ci.org/vigo/parayaz)
-
+[![Coverage Status](https://coveralls.io/repos/vigo/parayaz/badge.png?branch=master)](https://coveralls.io/r/vigo/parayaz?branch=master)
 # Parayaz
 
 Turkish number to text money according to [TDK][1000]
